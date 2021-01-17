@@ -1,0 +1,2 @@
+notification for napoler@qq.com: some notificationmessage to nas@qq.com
+message to nas@qq.com
